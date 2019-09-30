@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Debora Silva 
 Adriano Ramos
+=======
+Debora 
+adriano
+>>>>>>> e28f8f8f0d246f192e5799991205b47a05ffd
