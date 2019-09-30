@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+Debora Silva 
+Adriano Ramos
+=======
 Debora 
+<<<<<<< HEAD
 adriano ramos do
 
+=======
+adriano
+>>>>>>> e28f8f8f0d246f192e5799991205b47a05ffd
+>>>>>>> 43d9a31cf3d3ec2026a717778e0a348f6eb5f523
